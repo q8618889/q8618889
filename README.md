@@ -4,6 +4,8 @@
 
 **iOS / macOS 开发者 · 坐标中国**
 
+![Terminal](https://raw.githubusercontent.com/q8618889/q8618889/main/terminal.svg)
+
 </div>
 
 ---
