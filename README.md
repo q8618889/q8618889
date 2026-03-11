@@ -4,7 +4,7 @@
 
 **iOS / macOS 开发者 · 坐标中国**
 
-![Terminal](https://raw.githubusercontent.com/q8618889/q8618889/main/terminal.svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=2200&pause=900&color=00f5ff&background=0a0a0f&center=true&vCenter=true&width=400&lines=%24+install+Objective-C+Swift+Python+Xcode;%24+brew+install+swift+python;%3E+Ready+%C2%B7+MFJ)](https://github.com/q8618889)
 
 </div>
 

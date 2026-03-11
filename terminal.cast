@@ -1,8 +1,0 @@
-{"version": 2, "width": 72, "height": 12, "timestamp": 1710000000, "title": "MFJ", "env": {"TERM": "xterm-256color", "SHELL": "/bin/zsh"}}
-[0.0, "o", "\u001b[36m$\u001b[0m cd MacAgent/backend\r\n"]
-[0.7, "o", "\u001b[36m$\u001b[0m pip install -r requirements.txt\r\n"]
-[0.7, "o", "\u001b[32m>\u001b[0m Successfully installed fastapi uvicorn...\r\n"]
-[0.7, "o", "\u001b[36m$\u001b[0m python main.py\r\n"]
-[0.7, "o", "\u001b[32m>\u001b[0m Agent backend running on http://127.0.0.1:8765\r\n"]
-[0.7, "o", "\u001b[32m>\u001b[0m WebSocket ready · Chow Duck initialized\r\n"]
-[0.5, "o", "\u001b[36m$\u001b[0m \r\n"]
