@@ -4,7 +4,9 @@
 
 **iOS / macOS 开发者 · 坐标中国**
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=2200&pause=900&color=00f5ff&background=0a0a0f&center=true&vCenter=true&width=400&lines=%24+install+Objective-C+Swift+Python+Xcode;%24+brew+install+swift+python;%3E+Ready+%C2%B7+MFJ)](https://github.com/q8618889)
+<img src="https://raw.githubusercontent.com/MaxMFJ/MaxMFJ/main/terminal-header.svg" width="400" alt="" />
+
+[![Typing](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=2200&pause=900&color=00f5ff&background=0a0a0f&center=true&vCenter=true&width=400&lines=%24+install+Objective-C+Swift+Python+Xcode;%24+brew+install+swift+python;%3E+Ready+%C2%B7+MFJ)](https://github.com/MaxMFJ)
 
 </div>
 
@@ -32,9 +34,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=q8618889&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=00f5ff&text_color=e8e8f0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxMFJ&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=00f5ff&text_color=e8e8f0)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q8618889&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&text_color=e8e8f0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMFJ&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&text_color=e8e8f0)
 
 </div>
 
@@ -42,5 +44,5 @@
 
 ### 链接
 
-[![GitHub](https://img.shields.io/badge/GitHub-q8618889-00f5ff?style=flat-square&logo=github&logoColor=white)](https://github.com/q8618889)
+[![GitHub](https://img.shields.io/badge/GitHub-MaxMFJ-00f5ff?style=flat-square&logo=github&logoColor=white)](https://github.com/MaxMFJ)
 [![官网](https://img.shields.io/badge/官网-chowduck.cn-00f5ff?style=flat-square)](https://chowduck.cn)
